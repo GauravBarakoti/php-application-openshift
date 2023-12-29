@@ -1,7 +1,7 @@
 <?php
 /* Database credentials. Assuming you are running MySQL
 server with default setting (user 'root' with no password) */
-define('DB_SERVER', 'database-1.cxin39mjr8wa.ap-south-1.rds.amazonaws.com');
+define('DB_SERVER', 'localhost');
 define('DB_USERNAME', 'admin');
 define('DB_PASSWORD', 'redhat123');
 define('DB_NAME', 'ogtest');
